@@ -1,6 +1,5 @@
 {
-  "name": "selenium-testing",
-  "homepage": "https://bouhm.gitlab.io/selenium-testing",
+  "name": "selenium-mock",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
