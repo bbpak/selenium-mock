@@ -1,0 +1,23 @@
+.App {
+  padding: 2rem;
+}
+
+.labels {
+  margin-bottom: 0.5rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 3fr 3fr 5fr 1fr 1fr;
+  grid-column-gap: 2rem;
+  align-items: center;
+}
+
+.row {
+  border-top: 1px solid #dfdfdf;
+  padding: 0.5em 0;
+}
+
+select {
+  height: 32px;
+}

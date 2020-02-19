@@ -1,0 +1,28 @@
+{
+  "plan": [
+    "investigation",
+    "analysis",
+    "specification"
+  ],
+  "design": [
+    "planning",
+    "workflow",
+    "architecture"
+  ],
+  "devops": [
+    "CI",
+    "security",
+    "cloud",
+    "containers"
+  ] ,
+  "develop": [
+    "prototyping",
+    "implementation", 
+    "deployment"
+  ],
+  "test": [
+    "debugging",
+    "automation",
+    "testing"
+  ]
+}
